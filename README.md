@@ -1,2 +1,2 @@
-# AndroidPrivacyPolicy
-google play アプリ プライバシーポリシー
+# ロケット&サッカー
+
