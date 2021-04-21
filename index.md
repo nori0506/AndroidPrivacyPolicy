@@ -35,15 +35,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
 『ロケット&サッカー』のプライバシーポリシー
-Twitter
-Facebook
-0
-はてブ
-0
-LINE
-コピー
- 2019.12.08 2019.11.18
+
+
 本プライバシーポリシーは、noriakiが提供するアプリ『ロケット&サッカー』(以下「当アプリ」とします。)において、当アプリの利用者(以下『利用者』とします。)の個人情報もしくはそれに準ずる情報を取り扱う際に、当アプリが遵守する方針を示したものです。
 
 ■基本方針
