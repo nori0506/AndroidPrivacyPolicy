@@ -1,23 +1,21 @@
 ## 『ロケット&サッカー』のプライバシーポリシー
 
 
+
 本プライバシーポリシーは、noriaki_tech(以下「当社」とします。)が提供するアプリ『ロケット&サッカー』(以下「当アプリ」とします。)において、当アプリの利用者(以下『利用者』とします。)の個人情報もしくはそれに準ずる情報を取り扱う際に、当社が遵守する方針を示したものです。
+
 
 ■基本方針
 当社は、個人情報の重要性を認識し、個人情報を保護することが社会的責務であると考え、個人情報に関する法令を遵守し、本アプリで取り扱う個人情報の取得、利用、管理を適正に行います。本アプリで収集した情報は、利用目的の範囲内で適切に取り扱います。
 
-
 ■適用範囲
 本プライバシーポリシーは、当アプリにおいてのみ適用されます。
-
 
 ■個人情報の取得
 当社は、利用目的を明示するものとし、欺瞞または不法な手段により個人情報を取得することはありません。
 
-
 ■利用目的
 当社は、利用目的の達成に必要な範囲内で、以下のとおり個人情報を利用するものとします。
-
 　（3）ご意見・ご要望・お問い合わせ等に対応するため。
 　（4）アンケート、キャンペーン、イベントなどを実施するため。
 　（6）当社のサービスの利用または実施の状況に関してマーケティング調査または分析を行うこと。
@@ -60,6 +58,10 @@ https://policies.google.com/technologies/ads?hl=ja
 
 
 
+## "Rocket & Soccer" Privacy Policy
+
+
+This privacy policy refers to the user of this application (hereinafter referred to as "user") in the application "Rocket & Soccer" (hereinafter referred to as "this application") provided by noriaki_tech (hereinafter referred to as "our company"). ) Indicates the policy that we will comply with when handling personal information or information equivalent to it.
 
 
 
