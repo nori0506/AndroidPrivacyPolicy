@@ -49,9 +49,9 @@ https://policies.google.com/technologies/ads?hl=ja
 当アプリは、個人情報に関して適用される日本の法令を遵守するとともに、本プライバシーポリシーの内容を適宜見直しその改善に努めます。修正された最新のプライバシーポリシーは常に本ページにて開示されます。
 
 ■お問い合わせ先
-メールアドレス：noriaki_tech★yahoo.co.jp (★を@に変えてください)
+メールアドレス：noriaki_tech@yahoo.co.jp
 
-令和3年4月21日　策定
+令和3年5月25日　策定
 
 
 
@@ -95,7 +95,23 @@ The Company shall not provide the Personal Information to third parties without 
 ■ Disclosure, Correction, Deletion, etc.
 If you hope to disclose, correct, add or delete your Personal Information under the Act on the Protection of Personal Information of Japan or any other laws and regulations, please contact us.
 
+■ About advertising
+This app uses Google Ads and Google Admob for ad delivery.
+In this application, the following advertisement distribution companies may automatically acquire user information for the purpose of advertisement distribution. For information to be acquired, purpose of use, provision to third parties, etc., please check the link of the application privacy policy of the advertisement distributor below.
 
+AdMob（Google Inc.）
+http://www.google.com/intl/ja/policies/technologies/ads/
+
+Google Ads Policy
+https://policies.google.com/technologies/ads?hl=ja
+
+■ About changes in privacy policy
+This app will comply with Japanese laws and regulations applicable to personal information, and will review the content of this privacy policy as appropriate and strive to improve it. The latest revised privacy policy will always be disclosed on this page.
+
+■ Inquiries
+Email address: noriaki_tech@yahoo.co.jp
+
+Formulated on May 25, 3rd year of Reiwa
 
 
 
