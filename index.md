@@ -37,7 +37,6 @@ https://policies.google.com/technologies/ads?hl=ja
 
 
 
-hironaka co.,ltd. (the “Company”) herein establishes this Privacy Policy with respect to the treatment of the Personal Information obtained by the Company and promises to comply with this Privacy Policy, Act on the Protection of Personal Information of Japan and relevant laws and regulations and to treat the Personal Information in an appropriate manner.
 Personal Information
 The Company may obtain the Personal Information (defined in Article 2.1 of Act on the Protection of Personal Information of Japan) in the course of business activity.
 
@@ -83,20 +82,9 @@ The Company shall determine the term of storage of the Personal Information with
 Measures for Leakage
 If the leakage of the Personal Information occurs, the Company shall survey facts promptly and take appropriate measures such as notification to the principal.
 
-Continual Improvement
-The Company shall make endeavor to continuously improve the treatment of the Personal Information by internal audit or employee education.
-
-Amendment to Privacy Policy
-The Company may amend the Privacy Policy without prior notice. In cases where this Privacy Policy has been amended, the Company shall publish such amendment on the website of the Company. Please check such amendment periodically.
-
-Inquiry
-For any inquiry, please contact support@hamon-apps.com (Time 9:00-17:00)
-
-Supplementary Provisions：This Privacy Policy shall become in force and effect as of June 1, 2016.
 
 
 
-広中平祐（「当社」）は、当社が取得した個人情報の取り扱いについて本プライバシーポリシーを定め、本プライバシーポリシー、日本の個人情報保護法および関連法令を遵守し、取り扱いを約束します。適切な方法での個人情報。
 個人情報
 当社は、事業活動の過程で個人情報（日本の個人情報保護法第2.1条に定める）を取得する場合があります。
 
@@ -142,13 +130,4 @@ Supplementary Provisions：This Privacy Policy shall become in force and effect 
 漏れ対策
 当社は、個人情報の漏えいが発生した場合、速やかに事実を調査し、本人への通知等の適切な措置を講じます。
 
-継続的改善
-当社は、内部監査または従業員教育により、個人情報の取り扱いの継続的な改善に努めます。
 
-プライバシーポリシーの修正
-当社は、事前の通知なしにプライバシーポリシーを変更する場合があります。このプライバシーポリシーが修正された場合、当社はその修正を当社のウェブサイトに公開するものとします。このような修正を定期的に確認してください。
-
-問い合わせ
-お問い合わせはsupport@hamon-apps.com（時間9：00-17：00）
-
-補足条項：このプライバシーポリシーは、2016年6月1日から施行されます。
