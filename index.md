@@ -28,6 +28,15 @@ https://policies.google.com/technologies/ads?hl=ja
 メールアドレス：noriaki_tech★yahoo.co.jp (★を@に変えてください)
 
 令和3年4月21日　策定
+
+
+
+
+
+
+
+
+
 hironaka co.,ltd. (the “Company”) herein establishes this Privacy Policy with respect to the treatment of the Personal Information obtained by the Company and promises to comply with this Privacy Policy, Act on the Protection of Personal Information of Japan and relevant laws and regulations and to treat the Personal Information in an appropriate manner.
 Personal Information
 The Company may obtain the Personal Information (defined in Article 2.1 of Act on the Protection of Personal Information of Japan) in the course of business activity.
